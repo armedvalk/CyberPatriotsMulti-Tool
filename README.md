@@ -1,2 +1,2 @@
 # CyberPatriotsMulti-Tool
-A tool that hardens windows 10 systems.
+A tool that hardens systems.
